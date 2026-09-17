@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/833/976/HD-wallpaper-rumia-manga-darkness-touhou-touhou-project-touhou-characters-rumia-touhou.jpg" alt="Rumia" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtE3iGw_ISbLHeR7mdYK8FnVLdYh76sLbSTRGQXbzcdLs0MyCs9TF3DEV&s=10" alt="Rumia" />
 </div>
