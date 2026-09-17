@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://images.alphacoders.com/131/1315233.png" alt="Rumia" />
+  <img src="https://w0.peakpx.com/wallpaper/497/704/HD-wallpaper-anime-touhou-rumia-touhou.jpg" alt="Rumia" />
 </div>
