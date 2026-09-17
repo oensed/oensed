@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/497/704/HD-wallpaper-anime-touhou-rumia-touhou.jpg" alt="Rumia">
+  <img src="https://i.pinimg.com/1200x/92/2b/2b/922b2b51693f5fd4467048af099d5c2b.jpg" alt="Rumia">
 </div>
 
 
