@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="center"><b>my stack:</b></p>
+<h2 align="center"><b>my stack:</b></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
