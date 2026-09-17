@@ -5,6 +5,6 @@
 <h2 align="center">my stack:</h2>
 
 <img src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png" width="300px" height="200px" alt="linux">
-<img src="https://www.freepnglogos.com/uploads/javascript-png/logo-html5-js-css3-png-transparent-logo-4.png" width="300px" alt="html css js">
+<img src="https://www.freepnglogos.com/uploads/javascript-png/logo-html5-js-css3-png-transparent-logo-4.png" width="300px" height="150px" alt="html css js">
 <img src="" alt="linux">
 <img src="" alt="linux">
