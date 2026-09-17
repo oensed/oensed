@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/92/2b/2b/922b2b51693f5fd4467048af099d5c2b.jpg" alt="Rumia">
+  <img src="https://i.pinimg.com/1200x/03/fa/57/03fa5704543608c6ffd0311d69e2806c.jpg" alt="Rumia">
 </div>
 
 
