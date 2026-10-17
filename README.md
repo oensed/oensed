@@ -1,4 +1,4 @@
-<div text=center>
+<div align=center>
   <img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
 </div>
 
