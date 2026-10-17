@@ -1,6 +1,4 @@
-<video src="github.com/oensed/oensed/blob/main/badappled.mp4" controls="controls" style="max-width: 100%;">
-  Ваш браузер не поддерживает встроенные видео.
-</video>
+<img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
 
 
 
