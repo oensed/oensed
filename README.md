@@ -1,5 +1,6 @@
-<img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
-
+<div text=center>
+  <img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
+</div>
 
 
 <h2 align="center"><b>my stack:</b></h2>
