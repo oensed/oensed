@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f4/ee/88/f4ee88f3d7e77cf42f98fc1a1845c4aa.gif" width="75%" alt="Rumia">
-</div>
+<video src="github.com/oensed/oensed/blob/main/badappled.mp4" controls="controls" style="max-width: 100%;">
+  Ваш браузер не поддерживает встроенные видео.
+</video>
+
 
 
 <h2 align="center"><b>my stack:</b></h2>
