@@ -2,10 +2,10 @@
   <img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
 </div>
 
-<h2 align="center">Currently working on: rework my-local-nas</h2>
+<h2 align="center">Currently working on:</h2>
+<p align="center">rework oensed/my-local-nas</p>
 
 <h2 align="center"><b>my stack:</b></h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
