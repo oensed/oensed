@@ -2,9 +2,6 @@
   <img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
 </div>
 
-<h2 align="center">Currently working on:</h2>
-<p align="center">rework oensed/my-local-nas</p>
-
 <h2 align="center"><b>my stack:</b></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -15,3 +12,5 @@
   <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<h3 align="center">Currently working on:</h3>
+<p align="center">rework oensed/my-local-nas</p>
