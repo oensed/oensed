@@ -2,6 +2,7 @@
   <img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
 </div>
 
+<h2 align="center">Currently working on: rework my-local-nas</h2>
 
 <h2 align="center"><b>my stack:</b></h2>
 
