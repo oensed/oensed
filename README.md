@@ -1,6 +1,4 @@
-<div align=center>
-  <img src="https://github.com/oensed/oensed/blob/main/badapple.gif">
-</div>
+
 
 <h2 align="center"><b>my stack:</b></h2>
 <p align="center">
@@ -13,4 +11,4 @@
 </p>
 
 <h3 align="center">Currently working on:</h3>
-<p align="center">rework oensed/my-local-nas</p>
+<p align="center">rest // this readme</p>
